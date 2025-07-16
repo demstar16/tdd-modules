@@ -32,6 +32,7 @@ git submodule update --init --recursive
 | `curry`      | Ramda    | [🔗 View Repo](https://github.com/demstar16/curry-tdd)      |
 | `lens`       | Ramda    | [🔗 View Repo](https://github.com/demstar16/lens-tdd)       |
 | `promise`    | Built-in | [🔗 View Repo](https://github.com/demstar16/promise-tdd)    |
+| `create-selectors` | Redux | [🔗 View Repo](https://github.com/demstar16/create-selectors-tdd) |
 
 ---
 
