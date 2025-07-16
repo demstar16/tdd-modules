@@ -1,6 +1,6 @@
 # 🧠 Ramda Function Re-creations (TDD-Driven)
 
-This is a curated collection of Ramda.js function re-implementations, each built from the ground up using **test-driven development (TDD)**. The purpose is to demonstrate clarity of thought, functional programming understanding, and clean incremental development.
+This is a curated collection of function re-implementations, each built from the ground up using **test-driven development (TDD)**. The purpose is to demonstrate clarity of thought, functional programming understanding, and clean incremental development.
 
 Each function lives in its own repository and is included here as a Git submodule to preserve its individual commit history.
 
