@@ -1,0 +1,24 @@
+[submodule "lens"]
+	path = lens
+	url = https://github.com/demstar16/lens-tdd
+[submodule "transduce"]
+	path = transduce
+	url = https://github.com/demstar16/transduce-tdd
+[submodule "apply-spec"]
+	path = apply-spec
+	url = https://github.com/demstar16/apply-spec-tdd
+[submodule "map"]
+	path = map
+	url = https://github.com/demstar16/map-tdd
+[submodule "curry"]
+	path = curry
+	url = https://github.com/demstar16/curry-tdd
+[submodule "promise"]
+	path = promise
+	url = https://github.com/demstar16/promise-tdd
+[submodule "reduce"]
+	path = reduce
+	url = https://github.com/demstar16/reduce-tdd
+[submodule "filter"]
+	path = filter
+	url = https://github.com/demstar16/filter-tdd
